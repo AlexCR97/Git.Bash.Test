@@ -1,5 +1,1 @@
 Esta es una linea de texto
-Esta es otra linea de texto destinada a ser anadida solamente en branch1
-Esta es otra linea de texto destinada a ser anadida solamente en branch1
-
-Esta es una nueva linea agregada en branch2
